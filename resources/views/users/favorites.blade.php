@@ -2,6 +2,7 @@
 Yuina is sleeping
 Yuina just woke up
 Yuina is active
+Yuina is learning something
 @section('content')
     <div class="row">
         <aside class="col-xs-4">
