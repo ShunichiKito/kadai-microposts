@@ -1,5 +1,6 @@
 @extends('layouts.app')
 <<<<<<< HEAD
+OHHHH MAAAAI GAAAAWD
 <<<<<<< HEAD
 Yuina is sleeping
 Yuina just woke up
