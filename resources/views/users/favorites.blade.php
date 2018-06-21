@@ -5,6 +5,7 @@ Yuina is sleeping
 Yuina just woke up
 Yuina is active
 Yuina is clear
+kkkkkkkkkkkkkkkkkkkkkkkkkk
 oooooooooooooooooooooo
 aaa
 <<<<<<< HEAD
