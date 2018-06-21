@@ -1,5 +1,6 @@
 @extends('layouts.app')
 aaa
+test
 @section('content')
     <div class="row">
         <aside class="col-xs-4">
