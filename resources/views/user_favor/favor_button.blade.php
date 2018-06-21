@@ -4,6 +4,6 @@
     {!! Form::close() !!}
 @else
     {!! Form::open(['route' => ['user.favor', $micropost->id]]) !!}
-        {!! Form::submit('Favor', ['class' => "btn btn-primary btn-block"]) !!}
+        {!! Form::submit('Favor', ['class' => "btn btn-primary btn-block-xs"]) !!}
     {!! Form::close() !!}
 @endif
