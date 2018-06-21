@@ -1,6 +1,7 @@
 @extends('layouts.app')
 aaa
 test
+why japanese people
 @section('content')
     <div class="row">
         <aside class="col-xs-4">
