@@ -1,8 +1,11 @@
 @extends('layouts.app')
-Yuina is sleeping
-Yuina just woke up
-Yuina is active
+Yuina is clear
+=======
+aaa
+>>>>>>> 0cb27b80cf74cb6cf8d97667f09f7c0221c25a8b
+=======
 Yuina is learning something
+>>>>>>> yuina
 @section('content')
     <div class="row">
         <aside class="col-xs-4">
