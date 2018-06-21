@@ -1,6 +1,5 @@
 @extends('layouts.app')
-Yuina is sleeping
-Yuina just woke up
+aaa
 @section('content')
     <div class="row">
         <aside class="col-xs-4">
