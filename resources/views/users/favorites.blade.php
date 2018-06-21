@@ -1,11 +1,13 @@
 @extends('layouts.app')
-<<<<<<< HEAD
+Yuina is learning something
+OHHHH MAAAAI GAAAAWD
 Yuina is sleeping
 Yuina just woke up
 Yuina is active
-<<<<<<< HEAD
-=======
+Yuina is clear
+oooooooooooooooooooooo
 aaa
+<<<<<<< HEAD
 <<<<<<< HEAD
 test
 why japanese people
@@ -15,6 +17,19 @@ why japanese people
 Yuina is learning something
 >>>>>>> yuina
 >>>>>>> 75e12a2e237482551f574b1d22542e9dec2d1df7
+=======
+test
+why japanese people
+<<<<<<<<< saved version
+why japanese people
+>>>>>>> d4df6e9791f771bad0c72664e812d6c86988a667
+=======
+ok I UNDERSTAND
+>>>>>>> 0f113547f376d92c2cba5295b0eaf1a187e80b67
+=========
+
+>>>>>>>>> local version
+>>>>>>> withnitch
 @section('content')
     <div class="row">
         <aside class="col-xs-4">
