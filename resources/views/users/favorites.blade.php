@@ -1,7 +1,25 @@
 @extends('layouts.app')
+<<<<<<< HEAD
+OHHHH MAAAAI GAAAAWD
+<<<<<<< HEAD
+Yuina is sleeping
+Yuina just woke up
+Yuina is active
+<<<<<<< HEAD
+=======
+Yuina is clear
+>>>>>>> yuina
+=======
 aaa
+<<<<<<< HEAD
 test
 why japanese people
+=======
+>>>>>>> 0cb27b80cf74cb6cf8d97667f09f7c0221c25a8b
+=======
+Yuina is learning something
+>>>>>>> yuina
+>>>>>>> d4df6e9791f771bad0c72664e812d6c86988a667
 @section('content')
     <div class="row">
         <aside class="col-xs-4">
