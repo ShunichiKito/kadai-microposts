@@ -1,6 +1,9 @@
 @extends('layouts.app')
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f2c814350c71a8108e3bbdff542ef0cc809188d5
 @section('content')
     <div class="row">
         <aside class="col-xs-4">

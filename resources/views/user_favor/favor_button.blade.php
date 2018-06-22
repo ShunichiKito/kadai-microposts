@@ -7,7 +7,3 @@
         {!! Form::submit('Favor', ['class' => "btn btn-primary btn-block-xs"]) !!}
     {!! Form::close() !!}
 @endif
-
-aaa
-bbb
-ccc
